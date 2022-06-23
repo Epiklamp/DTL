@@ -1,0 +1,170 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+     font-family: 'Montserrat', sans-serif;
+     font-size: 24px;
+    
+
+}
+
+.header {
+    position: absolute;
+    background: #000A30;
+    width: 1920px;
+    height: 968.5px;
+    left: 0px;
+    top: 0px;
+}
+.container{
+
+	margin-left: 213px;
+	margin-right: 77px;
+    width: 29px;
+}
+
+.nav{
+    
+    display: flex;
+    align-items: center;
+}
+
+.dtl{
+
+    
+
+     
+}
+.dtl-t{
+   position: absolute;
+   width: 181px;
+   height: 89px;
+   left: 210px;
+   top: 14px;
+   font-family: 'Sora';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 64px;
+   line-height: 81px;
+   
+    
+}
+  
+
+.dtl-r{
+    position: absolute;
+    width: 1001px;
+    height: 73px;
+    left: 381px;
+    top: 14px;
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 81px;
+   
+    
+
+
+}
+
+.dtl-y{
+   position: absolute;
+   width: 284px;
+   height: 67px;
+   left: 1144px;
+   top: 43px;
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 900;
+   font-size: 32px;
+   line-height: 39px;
+
+
+    
+    
+
+}
+
+.dtl-p{
+    margin-right: 160px;
+    position: absolute;
+    width: 58.18px;
+    height: 30px;
+    left: 1382px;
+    top: 46px;
+
+}
+
+.dtl-2{
+    margin-left: auto;
+    position: absolute;
+    width: 33px;
+    height: 32px;
+    left: 1490px;
+    top: 46px;
+}
+
+
+.header2{
+    margin-top: 185px;
+    
+
+}
+
+.ofther{
+    
+    font-size: 40px;
+    width: 769px;
+
+
+}
+.list{
+    width: 448.45px;
+    margin-top: 100px;
+}
+.est{
+    width: 151px;
+    margin-top: 290.9px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 24px;
+
+}
+
+.slider-pic{
+    position: absolute;
+    width: 675px;
+    height: 713px;
+    left: 965px;
+    top: 173px;
+}
+
+.what{
+    position: absolute;
+    width: 475.37px;
+    height: 376px;
+    left: 154px;
+    top: 307px;
+}
+
+.Line{
+    position: absolute;
+    width: 158px;
+    height: 0px;
+    left: 1155px;
+    top: 87px;
+    border: 1px solid #FFFFFF;
+}
+
+
+.lie2{
+    position: absolute;
+    width: 158px;
+    height: 1px;
+    left: 1155px;
+    top: 87px;
+}
+
